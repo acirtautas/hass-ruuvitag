@@ -1,0 +1,4 @@
+{
+    "name": "Ruuvitag sensor",
+    "domains": ["sensor"],
+}
