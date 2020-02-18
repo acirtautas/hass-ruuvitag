@@ -1,5 +1,6 @@
 {
     "name": "Ruuvitag sensor",
     "domains": ["sensor"],
-    "content_in_root": true
+    "content_in_root": true,
+    "iot_class": "Local Polling"
 }
