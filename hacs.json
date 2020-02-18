@@ -1,4 +1,5 @@
 {
     "name": "Ruuvitag sensor",
-    "domains": ["sensor"]
+    "domains": ["sensor"],
+    "content_in_root": true
 }
