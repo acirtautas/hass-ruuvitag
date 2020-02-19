@@ -2,7 +2,6 @@
     "codeowners": [
         "@akx"
     ],
-    "config_flow": true,
     "documentation": "https://github.com/akx/hass-ruuvitag",
     "domain": "hass_ruuvitag",
     "name": "Ruuvitag sensor"
