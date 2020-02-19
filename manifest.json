@@ -4,6 +4,6 @@
     ],
     "config_flow": true,
     "documentation": "https://github.com/akx/hass-ruuvitag",
-    "domain": "sensors",
+    "domain": "hass_ruuvitag",
     "name": "Ruuvitag sensor"
 }
